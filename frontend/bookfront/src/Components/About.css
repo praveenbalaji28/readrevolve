@@ -1,0 +1,18 @@
+.square-container {
+    width: 300px;
+    /* Adjust width as needed */
+    height: 300px;
+    /* Adjust height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    /* Add border as needed */
+}
+
+.square-content {
+    max-width: 90%;
+    /* Adjust max-width as needed */
+    padding: 20px;
+    /* Adjust padding as needed */
+}
